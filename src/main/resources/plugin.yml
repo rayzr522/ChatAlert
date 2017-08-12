@@ -1,0 +1,8 @@
+name: ChatAlert
+version: ${project.version}
+main: me.rayzr522.chatalert.ChatAlert
+author: Rayzr
+description: Alerts staff when certain words are said in chat
+commands:
+  chatalert:
+    description: Main command for ChatAlert

@@ -1,0 +1,15 @@
+words:
+- kys
+- wew
+- lad
+- thats
+- deep
+- dont
+- actually
+- kill
+- yourself
+
+# The extra space at the end is on purpose so there's a space before the button
+notification-message: "&8\u00bb &c<player>&6 said &c<words>&6. "
+button-text: "&e(PUNISH)"
+button-command: "/mute <player> 30m"
